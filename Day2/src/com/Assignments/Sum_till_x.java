@@ -12,8 +12,5 @@ public class Sum_till_x {
             sum+=num;
         }
         System.out.println(sum);
-
-
-
     }
 }
