@@ -8,9 +8,9 @@ public class even_F {
     }
 
     private static void even() {
-        Scanner in = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         System.out.print("Enter Number : ");
-        int num = in.nextInt();
+        int num = sc.nextInt();
         if(num%2==0)
             System.out.println("even");
         else
