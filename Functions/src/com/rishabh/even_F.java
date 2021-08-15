@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class even_F {
     public static void main(String[] args) {
+
         even();
     }
 
