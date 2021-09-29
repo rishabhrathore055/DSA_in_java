@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb64c5fb-492f-48ed-a522-b0754245767d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Day2/src/com/Assignments/Sum_till_x.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day2/src/com/Assignments/Sum_till_x.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day2/src/com/Assignments/lcm_hcf.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day2/src/com/Assignments/lcm_hcf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day2/src/com/Assignments/leap_year.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day2/src/com/Assignments/leap_year.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day2/src/com/Assignments/multiplication_table.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day2/src/com/Assignments/multiplication_table.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day2/src/com/Assignments/sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day2/src/com/Assignments/sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +34,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Recursion" />
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -113,5 +109,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
