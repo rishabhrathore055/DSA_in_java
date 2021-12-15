@@ -15,5 +15,4 @@ public class FibonacciNum {
         }
         return fibonacci(num-1) + fibonacci(num-2);
     }
-
 }
