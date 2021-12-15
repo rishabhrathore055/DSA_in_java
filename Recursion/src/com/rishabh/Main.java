@@ -7,7 +7,7 @@ public class Main {
     }
 
     static void print(int n){
-        if(n==5){
+        if(n==10){
             System.out.println(n);
             return;
         }
